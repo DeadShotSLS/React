@@ -1,0 +1,22 @@
+.home-body{
+    background-color:lightblue;
+}
+.home{
+    width: max-content;
+    margin-left: 30%;
+
+    h1{
+        text-align: center;
+        color: darkgoldenrod;
+    }
+}
+.table{
+    th {
+        height: 100px;
+    }
+}
+table, th, td {
+    border: 2px solid darkcyan;
+    padding: 10px;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
