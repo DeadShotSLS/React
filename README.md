@@ -1,5 +1,30 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## code
+npm install -g create-react-app
+create-react-app <projectname>
+
+npm install --save react-router-dom
+
+npm install node-sass --save
+
+npm install @material-ui/core
+	import { Button } from '@material-ui/core';
+npm install react-bootstrap bootstrap
+	import { Button } from 'react-bootstrap';
+npm init
+npm install express body-parser cors mongoose --save       |cors-share resources,body-parser-get data from body|
+npm install nodemon --save-dev
+npm install nodemon -g --save
+
+npm install axios --save
+
+npm install mysql 	|for mysql|
+
+
+"C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" --dbpath="c:\data\db"	|mongod|
+"C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe" 				 |mongo|
+
 ## Available Scripts
 
 In the project directory, you can run:
